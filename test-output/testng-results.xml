@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67693" started-at="2019-07-16T06:11:19Z" finished-at="2019-07-16T06:12:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67693" started-at="2019-07-16T06:11:19Z" finished-at="2019-07-16T06:12:27Z">
+      <class name="greenfield_pack.Test6_reports">
+        <test-method status="PASS" signature="bc()[pri:0, instance:greenfield_pack.Test6_reports@6a41eaa2]" name="bc" is-config="true" duration-ms="691" started-at="2019-07-16T06:11:20Z" finished-at="2019-07-16T06:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="f()[pri:0, instance:greenfield_pack.Test6_reports@6a41eaa2]" name="f" duration-ms="65398" started-at="2019-07-16T06:11:21Z" finished-at="2019-07-16T06:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:greenfield_pack.Test6_reports@6a41eaa2]" name="ac" is-config="true" duration-ms="1243" started-at="2019-07-16T06:12:26Z" finished-at="2019-07-16T06:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- greenfield_pack.Test6_reports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
